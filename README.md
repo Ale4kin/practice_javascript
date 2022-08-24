@@ -10,3 +10,4 @@ This project is simple online cinema with possibility to rate, sort films
 
 ## Technologies
 Project is created with:
+* JavaScript
